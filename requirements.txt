@@ -10,6 +10,7 @@ debugpy==1.4.1
 defusedxml==0.7.1
 entrypoints==0.3
 Flask==2.0.1
+gunicorn
 ipykernel==6.0.3
 ipython==7.25.0
 ipywidgets==7.6.3
