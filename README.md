@@ -3,6 +3,7 @@
 
 https://house-price-ankush.herokuapp.com/predict
 
+FLOW CHART OF METHODOLOGY
 
 1.To study and analyse existing techniques used in House Price Prediction.
 2.To perform data acquisition of different samples of House Price available on the Internet.
